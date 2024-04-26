@@ -1,0 +1,3 @@
+Em minha pasta de algorítimos, está presente os projetos realizados no Portugol studios, dentro de outra pasta cujo o nome também é algorítimo que serve para armazenar meus trabalhos das aulas de programação, que podem ser compartilhados com a pasta a partir de um link no git hub.
+
+Como também está presente alguns tutoriais como: como baixar python e o VScode em seu computador, também compartilhados através do link do repositório.
