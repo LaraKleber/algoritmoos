@@ -1,4 +1,5 @@
 #Progama Distância
+nome = input("Nome do motorista:")
 cidade_de_origem = input("Cidade origem: ")
 cidade_do_destino = input("Cidade destino: ")
 distância = float(input("Distância percorrida:"))
